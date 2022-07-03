@@ -1,6 +1,6 @@
 <h3 align="center">Olá! Sou Luciana 👋</h3>
 <p align="center">
-  <a href="linkedin.com/in/luciana-dss/">Linkedin</a> •
+  <a href="https://www.linkedin.com/in/luciana-dss">Linkedin</a> •
   <a href="https://linktr.ee/Lucianadss">LinkTr</a>
 </p>
 
