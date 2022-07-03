@@ -1,16 +1,18 @@
-### Hi there 👋
+<h3 align="center">Olá! Sou Luciana 👋</h3>
+<p align="center">
+  <a href="linkedin.com/in/luciana-dss/">Linkedin</a> •
+  <a href="https://linktr.ee/Lucianadss">LinkTr</a>
+</p>
 
-<!--
-**Luciana-Santos/luciana-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedora Front end. Ser curiosa e desconfiada são minhas características mais fortes e me aproveito disso para sempre aprender e descobrir algo novo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✔ Sinta-se livre para fazer pull request em qualquer um dos meus projetos.
+- 🔭 No que estou trabalhando atualmente: Meu portifólio e Projeto final do curso de JavaScript: [Link](https://github.com/Luciana-Santos/sistema_solar)
+- 🌱 Atualmente estou estudando: React.js e, em breve, Java (como parte do cronograma da faculdade). 
+- 📫 Contato: Luciydss@gmail.com | [Linktr](https://linktr.ee/Lucianadss)
+- ⚡ Um fato sobre mim: Aprendi Inglês para ler meus livros favoritos, mas depois que aprendi só usei para ler documentação de tecnologias 🤡
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciana-santos)](https://github.com/anuraghazra/github-readme-stats)
