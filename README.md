@@ -9,7 +9,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedora Front end. Ser curiosa e desconfiada são minhas características mais fortes e me aproveito disso para sempre aprender e descobrir algo novo.
 
 
-- 🔭 No que estou trabalhando atualmente: Meu portifólio e o projeto de final do curso de JavaScript: [Link](https://github.com/Luciana-Santos/sistema_solar)
+- 🔭 No que estou trabalhando atualmente: Meu site [portifólio](https://github.com/Luciana-Santos/Luciana-Santos-Portifolio) e o projeto de final do curso de [JavaScript](https://github.com/Luciana-Santos/sistema_solar)
 - 🌱 Atualmente estou estudando: React.js e, em breve, Java (como parte do cronograma da faculdade). 
 - 📫 Contato: Luciydss@gmail.com | [Linktr](https://linktr.ee/Lucianadss)
 -  Um fato sobre mim: Aprendi Inglês para ler meus livros favoritos, mas depois que aprendi só usei para ler documentação de tecnologias 🤡
