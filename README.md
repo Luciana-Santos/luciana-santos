@@ -14,4 +14,4 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedora Front end. 
 - Um fato sobre mim: Aprendi Inglês para ler meus livros favoritos, mas depois que aprendi só usei para ler documentação de tecnologias 🤡
 - ✔ Sinta-se livre para fazer pull request em qualquer um dos meus projetos.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciana-santos)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=luciana-santos&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-santos&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
