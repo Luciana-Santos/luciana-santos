@@ -1,7 +1,7 @@
 <h3 align="center">Olá! Sou Luciana 👋</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/luciana-dss">Linkedin</a> •
-  <a href="https://linktr.ee/Lucianadss">LinkTr</a>
+  <a href="https://linktr.ee/Lucianadss">LinkTree</a>
 </p>
 
 ---
@@ -10,7 +10,7 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedora Front end. 
 
 - 🔭 No que estou trabalhando atualmente: [Readerly](https://github.com/Luciana-Santos/readerly) - Um app para treinar leitura em Inglês
 - 🌱 Atualmente estou estudando: React e TypeScript
-- 📫 Contato: Luciydss@gmail.com | [Linktr](https://linktr.ee/Lucianadss)
+- 📫 Contato: contato@luciana.dev | [Linktree](https://linktr.ee/Lucianadss)
 - Um fato sobre mim: Aprendi Inglês para ler meus livros favoritos, mas depois que aprendi só usei para ler documentação de tecnologias 🤡
 - ✔ Sinta-se livre para fazer pull request em qualquer um dos meus projetos.
 
