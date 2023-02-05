@@ -15,3 +15,5 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedora Front end. 
 - ✔ Sinta-se livre para fazer pull request em qualquer um dos meus projetos.
 
 ![](https://github-readme-stats.vercel.app/api?username=luciana-santos&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-santos&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Luciana-Santos)
