@@ -14,6 +14,12 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedora Front end. 
 - Um fato sobre mim: Aprendi Inglês para ler meus livros favoritos, mas depois que aprendi só usei para ler documentação de tecnologias 🤡
 - ✔ Sinta-se livre para fazer pull request em qualquer um dos meus projetos.
 
-![](https://github-readme-stats.vercel.app/api?username=luciana-santos&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-santos&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Luciana-Santos)
+<div align="center">
+  <a href="https://github.com/mathstylish">
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=luciana-santos&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-santos&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
+
+
