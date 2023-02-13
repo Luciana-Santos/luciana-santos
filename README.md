@@ -1,3 +1,9 @@
+<div align="center">
+<a href="https://luciana.dev">
+    <img src="https://github.com/Luciana-Santos/Lucianadss-portfolio/blob/main/src/assets/img/sobre-section.png?raw=true" alt="Logo" width="100">
+</a>
+</div>
+
 <h3 align="center">Olá! Sou Luciana 👋</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/luciana-dss">Linkedin</a> •
@@ -8,8 +14,8 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedora Front end. Ser curiosa e desconfiada são minhas características mais fortes e me aproveito disso para sempre aprender e descobrir algo novo.
 
-- 🔭 No que estou trabalhando atualmente: [Readerly](https://github.com/Luciana-Santos/readerly) - Um app para treinar leitura em Inglês
-- 🌱 Atualmente estou estudando: React e TypeScript
+- 🔭 No que estou trabalhando atualmente: [Readerly](https://github.com/Luciana-Santos/readerly) - Um app para treinar leitura em Inglês.
+- 🌱 Atualmente estou estudando: Next.js e Redux.
 - 📫 Contato: contato@luciana.dev | [Linktree](https://linktr.ee/Lucianadss)
 - Um fato sobre mim: Aprendi Inglês para ler meus livros favoritos, mas depois que aprendi só usei para ler documentação de tecnologias 🤡
 - ✔ Sinta-se livre para fazer pull request em qualquer um dos meus projetos.
