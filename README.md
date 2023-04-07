@@ -14,7 +14,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedora Front end. Ser curiosa e desconfiada são minhas características mais fortes e me aproveito disso para sempre aprender e descobrir algo novo.
 
-- 🔭 No que estou trabalhando atualmente: [Readerly](https://github.com/Luciana-Santos/readerly) - Um app para treinar leitura em Inglês.
+- 🔭 No que estou trabalhando atualmente: [Untold](https://github.com/Luciana-Santos/untold) - Um web chat em tempo real.
 - 🌱 Atualmente estou estudando: Next.js e Redux.
 - 📫 Contato: contato@luciana.dev | [Linktree](https://linktr.ee/Lucianadss)
 - Um fato sobre mim: Aprendi Inglês para ler meus livros favoritos, mas depois que aprendi só usei para ler documentação de tecnologias 🤡
@@ -22,7 +22,7 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedora Front end. 
 
 
 <div align="center">
-  <a href="https://github.com/mathstylish">
+  <a href="https://github.com/luciana-santos">
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=luciana-santos&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-santos&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
