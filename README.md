@@ -14,10 +14,10 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedora Front end. Ser curiosa e desconfiada são minhas características mais fortes e me aproveito disso para sempre aprender e descobrir algo novo.
 
-- 🔭 No que estou trabalhando atualmente: [Untold](https://github.com/Luciana-Santos/untold) - Um web chat em tempo real.
-- 🌱 Atualmente estou estudando: Next.js e Redux.
+- 🔎 No que estou trabalhando atualmente: [Untold](https://github.com/Luciana-Santos/untold) - Um web chat em tempo real.
+- 🚀 Atualmente estou estudando: C# e SQL.
 - 📫 Contato: contato@luciana.dev | [Linktree](https://linktr.ee/Lucianadss)
-- Um fato sobre mim: Aprendi Inglês para ler meus livros favoritos, mas depois que aprendi só usei para ler documentação de tecnologias 🤡
+- 💡 Um fato sobre mim: Aprendi Inglês para ler meus livros favoritos, mas depois que aprendi só usei para ler documentação de tecnologias 🤡
 - ✔ Sinta-se livre para fazer pull request em qualquer um dos meus projetos.
 
 
