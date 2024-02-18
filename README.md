@@ -23,9 +23,8 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedora Front end. 
 
 <div align="center">
   <a href="https://github.com/luciana-santos">
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=luciana-santos&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-santos&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <img height="180em"  width="45%" src="https://github-readme-stats.vercel.app/api?username=Luciana-santos&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
+  <img height="180em"  width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=luciana-santos&theme=catppuccin_mocha"/>
 </div>
 
 
