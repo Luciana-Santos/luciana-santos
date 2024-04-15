@@ -28,7 +28,7 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedora Front end. 
 </div> -->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luciana-santos&theme=onestar&row=1&no-bg=true&column=6&margin-w=20&margin-h=20" />
+  <img src="https://github-profile-trophy.vercel.app/?username=luciana-santos&theme=darkhub&row=1&no-bg=true&column=6&margin-w=20&margin-h=20" />
 </p>
 
 
