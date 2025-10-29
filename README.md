@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://luciana.dev">
-    <img src="https://github.com/Luciana-Santos/Lucianadss-portfolio/blob/main/src/assets/img/sobre-section.png?raw=true" alt="Logo" width="100">
+    <img src="https://luciana.dev/assets/sobre-section.png" alt="Logo" width="100">
 </a>
 </div>
 
@@ -21,13 +21,9 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedora Front end. 
 - ✔ Sinta-se livre para fazer pull request em qualquer um dos meus projetos.
 
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/luciana-santos">
   <img height="180em"  width="45%" src="https://github-readme-stats.vercel.app/api?username=Luciana-santos&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
   <img height="180em"  width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=luciana-santos&theme=catppuccin_mocha"/>
-</div> -->
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luciana-santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></p>
-
+</div> 
 
